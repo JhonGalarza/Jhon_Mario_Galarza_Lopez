@@ -1,2 +1,2 @@
-# Jhon_Mario_Galarza_Lopez
+# Jhon Mario  Galarza Lopez y Alejandro Gomez Patiño.
 Principios solid
