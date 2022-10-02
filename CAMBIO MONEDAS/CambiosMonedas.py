@@ -1,3 +1,4 @@
+#Trabajo realizado por Jhon Mario Galarza Lopez y Jh
 import pandas as pd
 from matplotlib import pyplot as plt
 from tkinter import *
