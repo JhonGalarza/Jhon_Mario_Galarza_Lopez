@@ -1,4 +1,4 @@
-#Trabajo realizado por Jhon Mario Galarza Lopez y Jh
+#Trabajo realizado por Jhon Mario Galarza Lopez y Alejandro Gomez Patiño
 import pandas as pd
 from matplotlib import pyplot as plt
 from tkinter import *
